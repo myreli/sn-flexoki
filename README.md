@@ -4,7 +4,10 @@ Flexoki-inspired theme for Standard Notes, with dark and light variants.
 
 ## Install
 
-Preferences → General → Advanced Settings → Install: <https://cdn.jsdelivr.net/gh/myreli/sn-flexoki@latest/ext.json>
+Preferences → General → Advanced Settings → Install: <https://cdn.jsdelivr.net/gh/myreli/sn-flexoki@latest/ext.light.json>
+
+Or Install: <https://cdn.jsdelivr.net/gh/myreli/sn-flexoki@latest/ext.dark.json>
+
 
 
 ![Screenshot of light variant](light.png)
