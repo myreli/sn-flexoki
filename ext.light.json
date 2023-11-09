@@ -1,0 +1,16 @@
+{
+    "identifier": "dev.myreli.sn.flexoki.light",
+    "name": "Flexoki Light",
+    "content_type": "SN|Theme",
+    "version": "1.0.0",
+    "description": "Light theme for Standard Notes with orange accent, inspired by Flexoki.",
+    "url": "https://cdn.jsdelivr.net/gh/myreli/sn-flexoki@latest/theme.light.css",
+    "latest_url": "https://cdn.jsdelivr.net/gh/myreli/sn-flexoki@latest/ext.light.json",
+    "download_url": "https://github.com/myreli/sn-flexoki/archive/main.zip",
+    "dock_icon": {
+      "type": "circle",
+      "background_color": "#FFFCF0",
+      "foreground_color": "#FFFCF0",
+      "border_color": "#FFFCF0"
+    }
+  }

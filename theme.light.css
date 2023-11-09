@@ -1,0 +1,31 @@
+:root {
+  --flexoki-bg:      #FFFCF0;
+  --flexoki-bg-2:    #F2F0E5;
+  --flexoki-ui:      #E6E4D9;
+  --flexoki-ui-2:    #DAD8CE;
+  --flexoki-ui-3:    #CECDC3;
+  --flexoki-tx-3:    #B7B5AC;
+  --flexoki-tx-2:    #6F6E69;
+  --flexoki-tx:      #100F0F;
+
+  --flexoki-red:     #AF3029;
+  --flexoki-orange:  #BC5215;
+  --flexoki-yellow:  #AD8301;
+  --flexoki-green:   #66800B;
+  --flexoki-cyan:    #24837B;
+  --flexoki-blue:    #205EA6;
+  --flexoki-purple:  #5E409D;
+  --flexoki-magenta: #A02F6F;
+
+  --sn-stylekit-info-color:                    var(--flexoki-cyan);
+  --sn-stylekit-danger-color:                  var(--flexoki-red);
+  --sn-stylekit-border-color:                  var(--flexoki-ui);
+  --sn-stylekit-foreground-color:              var(--text-color);
+  --sn-stylekit-success-color:                 var(--flexoki-green);
+  --sn-stylekit-warning-color:                 var(--flexoki-orange);
+  --sn-stylekit-background-color:              var(--flexoki-bg);
+  --sn-stylekit-contrast-background-color:     var(--flexoki-bg-2);
+  --sn-stylekit-secondary-background-color:    var(--flexoki-bg-2);
+  --sn-stylekit-accessory-tint-color-1:        var(--flexoki-tx-2);
+  --navigation-item-selected-background-color: var(--flexoki-bg);
+}
