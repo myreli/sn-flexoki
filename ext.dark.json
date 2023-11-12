@@ -2,7 +2,7 @@
     "identifier": "dev.myreli.sn.flexoki.dark",
     "name": "Flexoki Dark",
     "content_type": "SN|Theme",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Dark theme for Standard Notes, inspired by Flexoki.",
     "url": "https://cdn.jsdelivr.net/gh/myreli/sn-flexoki@dark/theme.dark.css",
     "latest_url": "https://cdn.jsdelivr.net/gh/myreli/sn-flexoki@main/ext.dark.json",
