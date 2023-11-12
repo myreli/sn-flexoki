@@ -1,12 +1,12 @@
 # Flexoki for Standard Notes
 
-Flexoki-inspired theme for Standard Notes, with dark and light variants.
+Flexoki-inspired theme for [Standard Notes](https://standardnotes.com), with dark and light variants.
 
 ## Install
 
-Preferences → General → Advanced Settings → Install: <https://cdn.jsdelivr.net/gh/myreli/sn-flexoki@latest/ext.light.json>
+Preferences → General → Advanced Settings → Install: <https://cdn.jsdelivr.net/gh/myreli/sn-flexoki@main/ext.light.json>
 
-Or Install: <https://cdn.jsdelivr.net/gh/myreli/sn-flexoki@latest/ext.dark.json>
+Or Install: <https://cdn.jsdelivr.net/gh/myreli/sn-flexoki@main/ext.dark.json>
 
 
 
