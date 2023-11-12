@@ -2,10 +2,10 @@
     "identifier": "dev.myreli.sn.flexoki.light",
     "name": "Flexoki Light",
     "content_type": "SN|Theme",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Light theme for Standard Notes, inspired by Flexoki.",
     "url": "https://cdn.jsdelivr.net/gh/myreli/sn-flexoki@light/theme.light.css",
-    "latest_url": "https://cdn.jsdelivr.net/gh/myreli/sn-flexoki@latest/ext.light.json",
+    "latest_url": "https://cdn.jsdelivr.net/gh/myreli/sn-flexoki@main/ext.light.json",
     "download_url": "https://github.com/myreli/sn-flexoki/archive/light.zip",
     "dock_icon": {
       "type": "circle",
