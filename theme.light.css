@@ -20,7 +20,7 @@
   --sn-stylekit-info-color:                    var(--flexoki-cyan);
   --sn-stylekit-danger-color:                  var(--flexoki-red);
   --sn-stylekit-border-color:                  var(--flexoki-ui);
-  --sn-stylekit-foreground-color:              var(--text-color);
+  --sn-stylekit-foreground-color:              var(--flexoki-tx);
   --sn-stylekit-success-color:                 var(--flexoki-green);
   --sn-stylekit-warning-color:                 var(--flexoki-orange);
   --sn-stylekit-background-color:              var(--flexoki-bg);
