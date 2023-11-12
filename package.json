@@ -3,9 +3,9 @@
     "description": "Flexoki-inspired theme for Standard Notes, with dark and light variants.",
     "version": "1.0.0",
     "license": "AGPL-3.0",
-    "main": "theme.css",
+    "main": "theme.dark.css",
     "sn": {
-      "main": "theme.css"
+      "main": "theme.dark.css"
     },
     "author": {
       "name": "Myreli",
