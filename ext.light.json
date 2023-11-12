@@ -3,14 +3,14 @@
     "name": "Flexoki Light",
     "content_type": "SN|Theme",
     "version": "1.0.0",
-    "description": "Light theme for Standard Notes with orange accent, inspired by Flexoki.",
-    "url": "https://cdn.jsdelivr.net/gh/myreli/sn-flexoki@latest/theme.light.css",
+    "description": "Light theme for Standard Notes, inspired by Flexoki.",
+    "url": "https://cdn.jsdelivr.net/gh/myreli/sn-flexoki@light/theme.light.css",
     "latest_url": "https://cdn.jsdelivr.net/gh/myreli/sn-flexoki@latest/ext.light.json",
-    "download_url": "https://github.com/myreli/sn-flexoki/archive/main.zip",
+    "download_url": "https://github.com/myreli/sn-flexoki/archive/light.zip",
     "dock_icon": {
       "type": "circle",
       "background_color": "#FFFCF0",
       "foreground_color": "#FFFCF0",
-      "border_color": "#FFFCF0"
+      "border_color": "#100F0F"
     }
   }

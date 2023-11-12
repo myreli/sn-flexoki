@@ -3,15 +3,15 @@
     "name": "Flexoki Dark",
     "content_type": "SN|Theme",
     "version": "1.0.0",
-    "description": "Dark theme for Standard Notes with orange accent, inspired by Flexoki.",
-    "url": "https://cdn.jsdelivr.net/gh/myreli/sn-flexoki@latest/theme.dark.css",
+    "description": "Dark theme for Standard Notes, inspired by Flexoki.",
+    "url": "https://cdn.jsdelivr.net/gh/myreli/sn-flexoki@dark/theme.dark.css",
     "latest_url": "https://cdn.jsdelivr.net/gh/myreli/sn-flexoki@latest/ext.dark.json",
-    "download_url": "https://github.com/myreli/sn-flexoki/archive/main.zip",
+    "download_url": "https://github.com/myreli/sn-flexoki/archive/dark.zip",
     "dock_icon": {
       "type": "circle",
       "background_color": "#100F0F",
       "foreground_color": "#100F0F",
-      "border_color": "#100F0F"
+      "border_color": "#FFFCF0"
     },
     "statusBar": "dark-content"
   }
