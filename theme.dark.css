@@ -28,4 +28,6 @@
   --sn-stylekit-secondary-background-color:    var(--flexoki-bg-2);
   --sn-stylekit-accessory-tint-color-1:        var(--flexoki-tx-2);
   --navigation-item-selected-background-color: var(--flexoki-bg);
+  --sn-stylekit-contrast-foreground-color:     var(--flexoki-tx);
+  --sn-stylekit-secondary-foreground-color:    var(--flexoki-tx-2);
 }
