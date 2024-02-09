@@ -4,7 +4,7 @@ Flexoki-inspired theme for [Standard Notes](https://standardnotes.com), with dar
 
 ## Install
 
-Preferences → General → Advanced Settings → Install: <https://cdn.jsdelivr.net/gh/myreli/sn-flexoki@main/ext.light.json>
+Preferences → Plugins → Install Custom Plugin: <https://cdn.jsdelivr.net/gh/myreli/sn-flexoki@main/ext.light.json>
 
 Or Install: <https://cdn.jsdelivr.net/gh/myreli/sn-flexoki@main/ext.dark.json>
 
