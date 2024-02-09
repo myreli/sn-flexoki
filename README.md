@@ -1,6 +1,8 @@
 # Flexoki for Standard Notes
 
-Flexoki-inspired theme for [Standard Notes](https://standardnotes.com), with dark and light variants.
+[Flexoki](stephango.com/flexoki) theme for [Standard Notes](https://standardnotes.com), with dark and light variants.
+
+> Flexoki is an inky color scheme for prose and code.
 
 ## Install
 
